@@ -9,10 +9,10 @@ ikman.lk scrapper helps you to save all results to a file automatically!
 ( the results will be automatically saved to 'ikmanScraped.txt' file )
 4. Enjoy the results!
 
+# Warning
 if you get a warning saying this file is malicious, it's a false warning!
-it is because this file is unsigned!
+
+# Note: 
+This program was made for educational purposes
 
 a link to test with: https://ikman.lk/en/ads/sri-lanka/vehicles?sort=date&buy_now=0&urgent=0&page=1
-
-# NOTE: 
-This program was made for educational purposes
