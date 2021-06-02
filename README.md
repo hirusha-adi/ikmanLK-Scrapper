@@ -1,6 +1,9 @@
 # ikmanLK-Scrapper
 ikman.lk scrapper helps you to save all results to a file automatically!
 
+![image](https://user-images.githubusercontent.com/36286877/120430826-3b750400-c395-11eb-962e-76404909ce50.png)
+
+
 # Usage:
 1. You need to get the link manually and enter it in the first field.
 2. Click 'Scrap'
